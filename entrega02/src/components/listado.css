@@ -1,0 +1,27 @@
+.linea {
+    color:blue;
+    font-size: 1.5rem;
+    text-align: center;
+
+}
+
+.container {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.card {
+    height: 250px;
+    width: 150px;
+    background-color: rgb(173, 166, 167);
+    border-radius: 15px;
+    text-align: center;
+}
+.navbar {
+    display: flex;
+    height: 120px;
+    background-color:rgb(126, 130, 141);
+    justify-content: space-around;
+    align-items: center;
+}
